@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <h6>hello cok jancok percobaan</h6>
+    <h6>hello cok jancokaa percobaan</h6>
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
